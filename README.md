@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a third year student at the Warsaw University of Technology.
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg
+<div>
