@@ -1,8 +1,8 @@
-# Welcome to my GitHub Profile 👋
+# Welcome to my GitHub Profile 
 
 I am a third year student at the Warsaw University of Technology and looking for my first commercial experience in IT. :computer:
 
-On my profile you will find many programs related to medicine field cause I am studying biomedical engineering.	:mechanical_arm:
+On my profile you will find many programs related to medicine field cause I am studying biomedical engineering.	
 
 ## Working with: 
 <div>
