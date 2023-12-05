@@ -1,6 +1,7 @@
 # Welcome to my GitHub Profile 
 
 Warsaw University of Technology
+
 RedCompass Labs
 
 ## Working with: 
